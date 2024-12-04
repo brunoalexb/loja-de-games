@@ -79,5 +79,5 @@ Utilize o **Insomnia** ou outra ferramenta para realizar as requisições.
 - **DELETE** `/categorias/{id}` - Exclui uma categoria pelo ID.
 - **GET** `/categorias/descricao/{descricao}` - Retorna categorias pela descrição.
 
-Autor 🧑‍💻
+## Autor 🧑‍💻
 Feito por Bruno Alexandre.
