@@ -80,4 +80,4 @@ Utilize o **Insomnia** ou outra ferramenta para realizar as requisições.
 - **GET** `/categorias/descricao/{descricao}` - Retorna categorias pela descrição.
 
 ## Autor 🧑‍💻
-Feito por Bruno Alexandre.
+Projeto desenvolvido por Bruno Alexandre. Entre em contato pelo e-mail: brunoale77@gmail.com.
