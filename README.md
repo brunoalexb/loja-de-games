@@ -61,23 +61,23 @@ git clone https://github.com/seu-usuario/loja-de-games.git
 
 Testando a API 📋
 
-Utilize o Insomnia ou outra ferramenta para realizar as requisições.
+Utilize o **Insomnia** ou outra ferramenta para realizar as requisições.
 
-Endpoints para Produtos
-POST -> /produtos -	Adiciona um novo produto.
-GET	-> /produtos	 - Retorna todos os produtos.
-GET	-> /produtos/{id} - Retorna um produto pelo ID.
-PUT	-> /produtos/{id} - Atualiza um produto existente.
-DELETE -> /produtos/{id} - Exclui um produto pelo ID.
-GET ->  /produtos/nome/{nome} - Retorna produtos pelo nome.
+### Endpoints para Produtos
+- **POST** `/produtos` - Adiciona um novo produto.
+- **GET** `/produtos` - Retorna todos os produtos.
+- **GET** `/produtos/{id}` - Retorna um produto pelo ID.
+- **PUT** `/produtos/{id}` - Atualiza um produto existente.
+- **DELETE** `/produtos/{id}` - Exclui um produto pelo ID.
+- **GET** `/produtos/nome/{nome}` - Retorna produtos pelo nome.
 
-Endpoints para Categorias
-POST -> /cateogorias -	Adiciona uma nova categoria.
-GET	-> /categorias	 - Retorna todas as categorias.
-GET	-> /categorias/{id} - Retorna uma categoria pelo ID.
-PUT	-> /categorias/{id} - Atualiza uma categoria existente.
-DELETE -> /categorias/{id} - Exclui uma categoria pelo ID.
-GET ->  /categorias/descricao/{descrição} - Retorna categorias pela descrição.
+### Endpoints para Categorias
+- **POST** `/categorias` - Adiciona uma nova categoria.
+- **GET** `/categorias` - Retorna todas as categorias.
+- **GET** `/categorias/{id}` - Retorna uma categoria pelo ID.
+- **PUT** `/categorias/{id}` - Atualiza uma categoria existente.
+- **DELETE** `/categorias/{id}` - Exclui uma categoria pelo ID.
+- **GET** `/categorias/descricao/{descricao}` - Retorna categorias pela descrição.
 
 Autor 🧑‍💻
 Feito por Bruno Alexandre.
